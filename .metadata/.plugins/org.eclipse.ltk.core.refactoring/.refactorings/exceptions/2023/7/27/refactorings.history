@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;exceptions.CompileTimePractise&apos; to &apos;FileReaderSAmple&apos;&#x0A;- Original project: &apos;exceptions&apos;&#x0A;- Original element: &apos;exceptions.CompileTimePractise&apos;&#x0A;- Renamed element: &apos;exceptions.FileReaderSAmple&apos;&#x0A;- Update references to refactored element&#x0A;- Rename similarly named elements&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CompileTimePractise&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;exceptions{CompileTimePractise.java[CompileTimePractise" matchStrategy="1" name="FileReaderSAmple" qualified="false" references="true" similarDeclarations="true" stamp="1688645485112" textual="false" version="1.0"/>
+</session>

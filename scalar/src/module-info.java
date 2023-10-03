@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author gurupj
+ *
+ */
+module scalar {
+}
